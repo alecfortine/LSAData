@@ -1,0 +1,10 @@
+c:\users\forti\documents\visual studio 2015\LSAData\bin\Debug\LSAData.dll
+c:\users\forti\documents\visual studio 2015\LSAData\bin\Debug\LSAData.pdb
+c:\users\forti\documents\visual studio 2015\LSAData\obj\Debug\LSAData.dll
+c:\users\forti\documents\visual studio 2015\LSAData\obj\Debug\LSAData.pdb
+C:\Users\forti\Documents\Visual Studio 2015\LSAData\obj\Debug\LSAData.csprojResolveAssemblyReference.cache
+C:\Users\forti\Documents\Visual Studio 2015\Projects\LSAData\bin\Debug\LSAData.dll
+C:\Users\forti\Documents\Visual Studio 2015\Projects\LSAData\bin\Debug\LSAData.pdb
+C:\Users\forti\Documents\Visual Studio 2015\Projects\LSAData\obj\Debug\LSAData.csprojResolveAssemblyReference.cache
+C:\Users\forti\Documents\Visual Studio 2015\Projects\LSAData\obj\Debug\LSAData.dll
+C:\Users\forti\Documents\Visual Studio 2015\Projects\LSAData\obj\Debug\LSAData.pdb
